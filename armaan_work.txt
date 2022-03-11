@@ -1,0 +1,5 @@
+Thu Mar  3 14:36:28 2022	Bench Press
+Thu Mar  3 14:37:12 2022	Cable Crossovers
+Fri Mar 11 17:25:30 2022	Military Press
+Fri Mar 11 17:25:36 2022	Squats
+Fri Mar 11 17:25:52 2022	Deadlifts
